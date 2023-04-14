@@ -1,0 +1,14 @@
+shipment_id,user_id,item_title,amount,status
+1,1,Литр рыбьего жира,5,done
+2,1,Кленовый сироп,10,done
+6,1,Бумеранг,33,delivered
+6,1,Литр белой краски,7,delivered
+7,1,Шапочка из фольги,50,delivered
+12,1,Зелёный горох,50,done
+12,1,Кукуруза,78,done
+13,1,prep,0,prep
+13,1,Миска Рис,40,shipment
+14,1,prep,0,prep
+14,1,Шоколад Неожиданность,49,done
+15,1,prep,0,prep
+15,1,Миска Рис,69,done
